@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hugo.dindi.net/</loc>
+    <loc>/dindinet.github.io/hugo-forestry-live/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugo.dindi.net/page/about/</loc>
+    <loc>/dindinet.github.io/hugo-forestry-live/page/about/</loc>
   </url>
   
   <url>
-    <loc>http://hugo.dindi.net/post/a-start/</loc>
+    <loc>/dindinet.github.io/hugo-forestry-live/post/a-start/</loc>
   </url>
   
   <url>
-    <loc>http://hugo.dindi.net/post/continue/</loc>
+    <loc>/dindinet.github.io/hugo-forestry-live/post/continue/</loc>
   </url>
   
 </urlset>
