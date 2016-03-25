@@ -6,19 +6,7 @@
     <description>Recent content on Hugo Forestry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2016 09:36:00 +0000</lastBuildDate>
     <atom:link href="http://hugo.dindi.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Is Hugo Watching For Changes</title>
-      <link>http://hugo.dindi.net/post/is-hugo-watching-for-changes/</link>
-      <pubDate>Fri, 25 Mar 2016 09:36:00 +0000</pubDate>
-      
-      <guid>http://hugo.dindi.net/post/is-hugo-watching-for-changes/</guid>
-      <description>&lt;p&gt;Making a change will tell us for sure if Hugo is watching the content folder.
-If all goes super and all goes well I can cut down the time I spend in the shell&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title></title>
