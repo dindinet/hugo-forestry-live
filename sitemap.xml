@@ -7,15 +7,15 @@
   </url>
   
   <url>
-    <loc>http://hugo.dindi.net/page/about/</loc>
+    <loc>http://hugo.dindi.net/page/about/index.md/</loc>
   </url>
   
   <url>
-    <loc>http://hugo.dindi.net/post/a-start/</loc>
+    <loc>http://hugo.dindi.net/post/a-start/index.md/</loc>
   </url>
   
   <url>
-    <loc>http://hugo.dindi.net/post/continue/</loc>
+    <loc>http://hugo.dindi.net/post/continue/index.md/</loc>
   </url>
   
 </urlset>
