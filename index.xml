@@ -6,15 +6,25 @@
     <description>Recent content on Hugo Forestry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Mar 2016 09:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2016 09:52:00 +0000</lastBuildDate>
     <atom:link href="http://hugo.dindi.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Summer</title>
+      <link>http://hugo.dindi.net/page/summer/index.md/</link>
+      <pubDate>Fri, 25 Mar 2016 09:52:00 +0000</pubDate>
+      
+      <guid>http://hugo.dindi.net/page/summer/index.md/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//lh3.googleusercontent.com/-HG_pIdZYFkk/UiWZdqkWluI/AAAAAAAAKYk/wUbhXRi681IJoe-pJaQaggFCdKBwr69RQCCo/s800-Ic42/tourdefrance_sunflowers.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Is Hugo Watching For Changes</title>
-      <link>http://hugo.dindi.net/post/is-hugo-watching-for-changes/</link>
+      <link>http://hugo.dindi.net/post/is-hugo-watching-for-changes/index.md/</link>
       <pubDate>Fri, 25 Mar 2016 09:36:00 +0000</pubDate>
       
-      <guid>http://hugo.dindi.net/post/is-hugo-watching-for-changes/</guid>
+      <guid>http://hugo.dindi.net/post/is-hugo-watching-for-changes/index.md/</guid>
       <description>&lt;p&gt;Making a change will tell us for sure if Hugo is watching the content folder.
 If all goes super and all goes well I can cut down the time I spend in the shell&lt;/p&gt;
 </description>
@@ -22,13 +32,13 @@ If all goes super and all goes well I can cut down the time I spend in the shell
     
     <item>
       <title></title>
-      <link>http://hugo.dindi.net/page/about/</link>
+      <link>http://hugo.dindi.net/page/about/index.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hugo.dindi.net/page/about/</guid>
+      <guid>http://hugo.dindi.net/page/about/index.md/</guid>
       <description>
 
-&lt;h2 id=&#34;we-are-small-but-ingenious&#34;&gt;We are small but ingenious&lt;/h2&gt;
+&lt;h2 id=&#34;we-are-small-but-ingenious:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;We are small but ingenious&lt;/h2&gt;
 
 &lt;p&gt;We Travel around the forest on aircraft made from dry leaves&lt;/p&gt;
 
@@ -44,10 +54,10 @@ If all goes super and all goes well I can cut down the time I spend in the shell
     
     <item>
       <title></title>
-      <link>http://hugo.dindi.net/post/a-start/</link>
+      <link>http://hugo.dindi.net/post/a-start/index.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hugo.dindi.net/post/a-start/</guid>
+      <guid>http://hugo.dindi.net/post/a-start/index.md/</guid>
       <description>
 
 &lt;h2 id=&#34;lets-blog:d75341fea57fe564ca632eda7030de77&#34;&gt;Lets Blog&lt;/h2&gt;
@@ -60,10 +70,10 @@ If all goes super and all goes well I can cut down the time I spend in the shell
     
     <item>
       <title></title>
-      <link>http://hugo.dindi.net/post/continue/</link>
+      <link>http://hugo.dindi.net/post/continue/index.md/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hugo.dindi.net/post/continue/</guid>
+      <guid>http://hugo.dindi.net/post/continue/index.md/</guid>
       <description>
 
 &lt;h2 id=&#34;i-m-blogging-i-m-blogging:54f6953c6ded26a41584ed2f83dc4dfd&#34;&gt;I&amp;rsquo;m Blogging I&amp;rsquo;m Blogging&lt;/h2&gt;
