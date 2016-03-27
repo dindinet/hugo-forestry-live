@@ -16,7 +16,7 @@
       <guid>http://hugo.dindi.net/page/about/</guid>
       <description>
 
-&lt;h2 id=&#34;we-are-small-but-ingenious:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;We are small but ingenious&lt;/h2&gt;
+&lt;h2 id=&#34;we-are-small-but-ingenious&#34;&gt;We are small but ingenious&lt;/h2&gt;
 
 &lt;p&gt;We Travel around the forest on aircraft made from dry leaves&lt;/p&gt;
 
@@ -87,7 +87,7 @@
 
 &lt;p&gt;&lt;row&gt;
 &lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;one&#34;&gt;One&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;two&#34;&gt;Two&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;three&#34;&gt;Three&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-&lt;div&gt;&lt;div id=&#34;one&#34;&gt;&lt;/div&gt;&lt;div id=&#34;two&#34;&gt;&lt;/div&gt;&lt;div id=&#34;three&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;div id=&#34;one&#34;&gt;We are showing one&lt;/div&gt;&lt;div id=&#34;two&#34;&gt;We are showing 2&lt;/div&gt;&lt;div id=&#34;three&#34;&gt;we are showing 3&lt;/div&gt;&lt;/div&gt;
 &lt;/row&gt;&lt;/p&gt;
 </description>
     </item>
