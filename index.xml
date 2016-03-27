@@ -86,8 +86,8 @@
 &lt;p&gt;&lt;img src=&#34;http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;row&gt;
-&lt;div class=&#34;col-md-3&#34;&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;one&#34;&gt;One&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;two&#34;&gt;Two&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;three&#34;&gt;Three&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-&lt;div class=&#34;col-md-9&#34;&gt;&lt;div id=&#34;one&#34;&gt;We are showing one&lt;/div&gt;&lt;div id=&#34;two&#34;&gt;We are showing 2&lt;/div&gt;&lt;div id=&#34;three&#34;&gt;we are showing 3&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&#34;col-md-3&#34;&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;#&#34; slide=&#34;one&#34;&gt;One&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#&#34; slide=&#34;two hide&#34;&gt;Two&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;#&#34; slide=&#34;three hide&#34;&gt;Three&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class=&#34;col-md-9&#34;&gt;&lt;div id=&#34;one&#34;&gt;We are showing one&lt;/div&gt;&lt;div id=&#34;two&#34;&gt;We are showing 2&lt;/div&gt;&lt;div id=&#34;three &#34;&gt;we are showing 3&lt;/div&gt;&lt;/div&gt;
 &lt;/row&gt;&lt;/p&gt;
 </description>
     </item>
