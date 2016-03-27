@@ -92,7 +92,7 @@
 &lt;li&gt;&lt;a href=&#34;#slidemenu&#34; slide=&#34;one&#34;&gt;
 &lt;h4&gt;Website Implementation&lt;/h4&gt;
 &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#slidemenu&#34; slide=&#34;two &#34;&gt;Two&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#slidemenu&#34; slide=&#34;two &#34;&gt;&lt;h4&gt;E-Marketing&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#slidemenu&#34; slide=&#34;three&#34;&gt;Three&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
 &lt;div id=&#34;slides&#34; class=&#34;col-md-9&#34;&gt;
 &lt;div id=&#34;one&#34;&gt;
@@ -105,7 +105,17 @@
 &lt;li&gt;Hosting&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;div id=&#34;two&#34; class=&#34;hide&#34;&gt;We are showing 2&lt;/div&gt;&lt;div id=&#34;three&#34; class=&#34;hide&#34;&gt;we are showing 3&lt;/div&gt;&lt;/div&gt;
+&lt;div id=&#34;two&#34; class=&#34;hide&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Email
+&lt;li&gt;A/B Testing&lt;/li&gt;
+&lt;li&gt;Email Marketing - Message Distribution - List managment&lt;a href=&#34;http://tinyletter.com/&#34;&gt;tiny letter&lt;/a&gt; - &lt;a href=&#34;https://mailchimp.com&#34;&gt;Mailchimp&lt;/a&gt; - &lt;a href=&#34;https://sendgrid.com/&#34;&gt;Sendgrid&lt;/a&gt;
+&lt;li&gt;Content/Inbound Marketing Content Planning/Creation/Delivery&lt;/li&gt;
+&lt;li&gt;Document Distribution&lt;/li&gt;
+&lt;li&gt;SEM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;three&#34; class=&#34;hide&#34;&gt;we are showing 3&lt;/div&gt;&lt;/div&gt;
 &lt;/row&gt;&lt;/p&gt;
 </description>
     </item>
@@ -118,7 +128,7 @@
       <guid>http://hugo.dindi.net/post/continue/</guid>
       <description>
 
-&lt;h2 id=&#34;i-m-blogging-i-m-blogging:54f6953c6ded26a41584ed2f83dc4dfd&#34;&gt;I&amp;rsquo;m Blogging I&amp;rsquo;m Blogging&lt;/h2&gt;
+&lt;h2 id=&#34;i-m-blogging-i-m-blogging&#34;&gt;I&amp;rsquo;m Blogging I&amp;rsquo;m Blogging&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;//lh3.googleusercontent.com/-VQc4Sl8RlD0/UiWY7axfa1I/AAAAAAAAKYk/J8N1XdUPojkEY5ZyBPE1S1ecyrT7tDEggCCo/s800-Ic42/SunriseCosta-Brava-%25EF%25BC%258CSpain-1600x2560.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
