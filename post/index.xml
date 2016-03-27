@@ -62,6 +62,11 @@
 &lt;h3 id=&#34;e-book-what-you-have-to-do:d75341fea57fe564ca632eda7030de77&#34;&gt;E-Book - What You Have To Do&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;row&gt;
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;one&#34;&gt;One&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;two&#34;&gt;Two&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;&#34; slide=&#34;three&#34;&gt;Three&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div&gt;&lt;div id=&#34;one&#34;&gt;&lt;/div&gt;&lt;div id=&#34;two&#34;&gt;&lt;/div&gt;&lt;div id=&#34;three&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/row&gt;&lt;/p&gt;
 </description>
     </item>
     
