@@ -91,6 +91,32 @@
 #slidemenu{list-style-type: none;}
 .slideopener{background-color: pink;padding: 12px;border-bottom:red 2px solid;}
 .slide ul li{list-style-type: none;}
+.banner-box {
+    width: 30%;
+    background: #fff;
+    float: left;
+    margin-right: 32px;
+}
+.banner-box table {
+    margin: 0;
+    border: none;
+    box-shadow: 0 2px 2px rgba(0,0,0,.24),0 0 2px rgba(0,0,0,.12);
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #2B85E7;
+}
+ .banner-box table tbody td {
+    padding: 8px 24px;
+    border: 1px solid rgba(207,216,220,.24);
+    text-align: left;
+    vertical-align: top;
+    display: table-cell;
+}
+.banner-box table td.learn-more {
+    padding: 8px 0 0 12px;
+    font-size: 12px;
+    font-weight: 600;
+}
 &lt;/style&gt;
 &lt;row&gt;
 &lt;div class=&#34;col-md-12&#34;&gt;
@@ -98,6 +124,22 @@
 &lt;li class=&#34;slideopener&#34;&gt;&lt;a href=&#34;#slidemenu&#34; slide=&#34;one&#34;&gt;&lt;h4&gt;Website Implementation&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li id=&#34;one&#34; class=&#34;slide&#34;&gt;
 &lt;div&gt;
+&lt;div class=&#34;banner-box&#34;&gt;
+         &lt;table&gt;
+           &lt;tbody&gt;&lt;tr&gt;
+             &lt;td rowspan=&#34;2&#34;&gt;
+                S E O
+              &lt;/td&gt;
+             &lt;td&gt;
+               &lt;h3&gt;SEO&lt;/h3&gt;
+               &lt;p&gt;Help your content to get found on the web&lt;/p&gt;
+            &lt;/td&gt;
+           &lt;/tr&gt;
+           &lt;tr&gt;
+             &lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;WATCH THE KEYNOTES&lt;/a&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;&lt;/table&gt;
+      &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt; SEO&lt;/li&gt;
 &lt;li&gt;Web Design - layout - graphic design - fonts - colors&lt;/li&gt;
