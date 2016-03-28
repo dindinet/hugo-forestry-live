@@ -100,61 +100,26 @@
 &lt;li id=&#34;one&#34; class=&#34;slide&#34;&gt;
 &lt;div&gt;
 &lt;div class=&#34;banner-box col-md-4&#34;&gt;
-         &lt;table&gt;
-           &lt;tbody&gt;&lt;tr&gt;
-             &lt;td rowspan=&#34;2&#34;&gt;
-                S E O
-              &lt;/td&gt;
-             &lt;td&gt;
-               &lt;h3&gt;SEO&lt;/h3&gt;
-               &lt;p&gt;Help your content to get found on the web&lt;/p&gt;
-            &lt;/td&gt;
-           &lt;/tr&gt;
-           &lt;tr&gt;
-             &lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;&lt;/table&gt;
-      &lt;/div&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt; S E O&lt;/td&gt;&lt;td&gt;&lt;h3&gt;SEO&lt;/h3&gt;&lt;p&gt;Help your content to get found on the web&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
  &lt;div class=&#34;banner-box col-md-4&#34;&gt;
-         &lt;table&gt;
-           &lt;tbody&gt;&lt;tr&gt;
-             &lt;td rowspan=&#34;2&#34;&gt;
-                WEB DESIGN
-              &lt;/td&gt;
-             &lt;td&gt;
-               &lt;h3&gt;Web Design&lt;/h3&gt;
-               &lt;p&gt;Layout - Fonts - Colors - Images - Responsive&lt;/p&gt;
-            &lt;/td&gt;
-           &lt;/tr&gt;
-           &lt;tr&gt;
-             &lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;&lt;/table&gt;
-      &lt;/div&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;WEB DESIGN&lt;/td&gt;&lt;td&gt;&lt;h3&gt;Web Design&lt;/h3&gt;&lt;p&gt;Layout - Fonts - Colors - Images - Responsive&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
 &lt;div class=&#34;banner-box col-md-4&#34;&gt;
-         &lt;table&gt;
-           &lt;tbody&gt;&lt;tr&gt;
-             &lt;td rowspan=&#34;2&#34;&gt;
-                Data Collection
-              &lt;/td&gt;
-             &lt;td&gt;
-               &lt;h3&gt;Data Collection&lt;/h3&gt;
-               &lt;p&gt;Surveys - Form Handlers&lt;/p&gt;
-            &lt;/td&gt;
-           &lt;/tr&gt;
-           &lt;tr&gt;
-             &lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;&lt;/table&gt;
-      &lt;/div&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;Data Collection&lt;/td&gt;&lt;td&gt;&lt;h3&gt;Data Collection&lt;/h3&gt;&lt;p&gt;Surveys - Form Handlers&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt; SEO&lt;/li&gt;
-&lt;li&gt;Web Design - layout - graphic design - fonts - colors&lt;/li&gt;
-&lt;li&gt;Data Collection - Surveys - Form Handlers&lt;/li&gt;
-&lt;li&gt;E-Commerce&lt;/li&gt;
-&lt;li&gt;CMS&lt;/li&gt;
-&lt;li&gt;Hosting&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&#34;banner-box col-md-4&#34;&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt; E-Commerce&lt;/td&gt;&lt;td&gt;&lt;h3&gt;E-Commerce&lt;/h3&gt;&lt;p&gt;Sell your products and services to the world&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
+ &lt;div class=&#34;banner-box col-md-4&#34;&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;CMS&lt;/td&gt;&lt;td&gt;&lt;h3&gt;Content Management&lt;/h3&gt;&lt;p&gt;Manage your website with ease at any time from anywhere&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;div class=&#34;banner-box col-md-4&#34;&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td rowspan=&#34;2&#34;&gt;Hosting&lt;/td&gt;&lt;td&gt;&lt;h3&gt;Hosting&lt;/h3&gt;&lt;p&gt;Host securely in the cloud and weather any traffic storm&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&#34;learn-more&#34;&gt;&lt;a href=&#34;https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;amp;utm_medium=google&amp;amp;utm_content=homepage&amp;amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;amp;utm_term=outbound&#34; track-type=&#34;keepReading&#34; track-name=&#34;next2016&#34; track-metadata-position=&#34;body&#34;&gt;MORE&amp;hellip;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/li&gt;
 &lt;li class=&#34;slideopener&#34;&gt;&lt;a href=&#34;#slidemenu&#34; slide=&#34;two &#34;&gt;&lt;h4&gt;E-Marketing&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
@@ -224,7 +189,7 @@
       <guid>http://hugo.dindi.net/post/continue/</guid>
       <description>
 
-&lt;h2 id=&#34;i-m-blogging-i-m-blogging&#34;&gt;I&amp;rsquo;m Blogging I&amp;rsquo;m Blogging&lt;/h2&gt;
+&lt;h2 id=&#34;i-m-blogging-i-m-blogging:54f6953c6ded26a41584ed2f83dc4dfd&#34;&gt;I&amp;rsquo;m Blogging I&amp;rsquo;m Blogging&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;//lh3.googleusercontent.com/-VQc4Sl8RlD0/UiWY7axfa1I/AAAAAAAAKYk/J8N1XdUPojkEY5ZyBPE1S1ecyrT7tDEggCCo/s800-Ic42/SunriseCosta-Brava-%25EF%25BC%258CSpain-1600x2560.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
