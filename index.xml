@@ -94,6 +94,7 @@
 .banner-box {
     background: #fff;
     float: left;
+    height: 200px;
 }
 .banner-box table {
     margin: 0;
