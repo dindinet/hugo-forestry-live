@@ -70,10 +70,8 @@
 .slideopener{background-color: pink;padding: 12px;border-bottom:red 2px solid;}
 .slide ul li{list-style-type: none;}
 .banner-box {
-    width: 30%;
     background: #fff;
     float: left;
-    margin-right: 32px;
 }
 .banner-box table {
     margin: 0;
@@ -81,7 +79,6 @@
     box-shadow: 0 2px 2px rgba(0,0,0,.24),0 0 2px rgba(0,0,0,.12);
     border-collapse: separate;
     border-spacing: 0;
-    border: 1px solid #2B85E7;
 }
  .banner-box table tbody td {
     padding: 8px 24px;
@@ -102,7 +99,7 @@
 &lt;li class=&#34;slideopener&#34;&gt;&lt;a href=&#34;#slidemenu&#34; slide=&#34;one&#34;&gt;&lt;h4&gt;Website Implementation&lt;/h4&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li id=&#34;one&#34; class=&#34;slide&#34;&gt;
 &lt;div&gt;
-&lt;div class=&#34;banner-box&#34;&gt;
+&lt;div class=&#34;banner-box col-md-4&#34;&gt;
          &lt;table&gt;
            &lt;tbody&gt;&lt;tr&gt;
              &lt;td rowspan=&#34;2&#34;&gt;
