@@ -18,4 +18,8 @@
     <loc>http://hugo.dindi.net/post/continue/</loc>
   </url>
   
+  <url>
+    <loc>http://hugo.dindi.net/</loc>
+  </url>
+  
 </urlset>
