@@ -11,15 +11,15 @@
   </url>
   
   <url>
-    <loc>http://hugo.dindi.net/post/a-start/</loc>
-  </url>
-  
-  <url>
     <loc>http://hugo.dindi.net/</loc>
   </url>
   
   <url>
     <loc>http://hugo.dindi.net/post/continue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugo.dindi.net/post/a-start/</loc>
   </url>
   
 </urlset>
